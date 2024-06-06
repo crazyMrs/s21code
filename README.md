@@ -1,5 +1,5 @@
 
-![Header Image](https://github.com/crazyMrs/s21code/blob/main/images/my_progects.png)
+![Header Image](https://github.com/crazyMrs/s21code/blob/main/images/image_forest.png)
 
 Привет! Меня зовут Яковлева Александра (Jeffreyl), и я Python разработчик. Здесь вы найдете разнообразные проекты на Python, C++, SQL и C, которые я разработала в рамках заданий от Школы 21 — образовательного проекта от Сбер для разработчиков и собственные проекты.
 
