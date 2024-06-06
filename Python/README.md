@@ -1,4 +1,4 @@
-![Header Image](https://github.com/crazyMrs/s21code/blob/main/images/my_progects.png)
+![Header Image](https://github.com/crazyMrs/s21code/blob/main/images/image_forest.png)
 
 # Проекты на Python
 
